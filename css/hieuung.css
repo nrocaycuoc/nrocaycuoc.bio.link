@@ -2,11 +2,11 @@
 
 a.my-link {
     text-decoration: none; /* Loại bỏ gạch chân dưới liên kết */
-    color: #FF00FF; /* Màu chữ mặc định của liên kết */
+    color: blue; /* Màu chữ mặc định của liên kết */
     transition: color 0.3s; /* Hiệu ứng chuyển đổi màu trong 0.3s */
   }
   
   a.my-link:hover {
-    color: #FFA500; /* Màu chữ cam khi rê chuột qua liên kết */
+    color: FF00FF; /* Màu chữ cam khi rê chuột qua liên kết */
   }
   
