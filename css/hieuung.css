@@ -2,7 +2,7 @@
 
 a.my-link {
     text-decoration: none; /* Loại bỏ gạch chân dưới liên kết */
-    color: blue; /* Màu chữ mặc định của liên kết */
+    color: #0000FF; /* Màu chữ mặc định của liên kết */
     transition: color 0.3s; /* Hiệu ứng chuyển đổi màu trong 0.3s */
   }
   
